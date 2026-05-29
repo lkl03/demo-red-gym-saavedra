@@ -1,2 +1,7 @@
-# demo-red-gym-saavedra
-Demo web para RED GYM saavedra — diseñada por eterlab.
+# RED GYM saavedra
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
